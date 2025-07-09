@@ -1,6 +1,6 @@
 # Reconstruction
 
-This directory contains steering files and documentation related to the reconstruction process in the data processing workflow.
+This directory contains steering files and documentation related to the reconstruction process for the Muon Collider.
 
 ## Overview
 
@@ -23,5 +23,7 @@ Ensure that this command is run in a directory with the input file. Additionally
 - `algList.py`: A modifiable list of algorithms used in reconstruction
 - `/compontents/`: Directory with all of the algorithms, split up for ease
 - `/PandoraSettings/`: Directory with Pandora steering information. Must be present in directory where reconstruction is run
+
+## Contributing
 
 For questions or contributions, please contact the maintainers or open an issue.
